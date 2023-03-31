@@ -1,5 +1,5 @@
-duq package
-===========
+duqling package
+===============
 
 Subpackages
 -----------
@@ -7,39 +7,39 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   duq.data
+   duqling.data
 
 Submodules
 ----------
 
-duq.dimension module
---------------------
+duqling.dimension module
+------------------------
 
-.. automodule:: duq.dimension
+.. automodule:: duqling.dimension
    :members:
    :undoc-members:
    :show-inheritance:
 
-duq.helpers module
-------------------
+duqling.helpers module
+----------------------
 
-.. automodule:: duq.helpers
+.. automodule:: duqling.helpers
    :members:
    :undoc-members:
    :show-inheritance:
 
-duq.quantity module
+duqling.quantity module
+-----------------------
+
+.. automodule:: duqling.quantity
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+duqling.unit module
 -------------------
 
-.. automodule:: duq.quantity
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-duq.unit module
----------------
-
-.. automodule:: duq.unit
+.. automodule:: duqling.unit
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ duq.unit module
 Module contents
 ---------------
 
-.. automodule:: duq
+.. automodule:: duqling
    :members:
    :undoc-members:
    :show-inheritance:

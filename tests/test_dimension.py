@@ -1,4 +1,4 @@
-from duq.dimension import Dimension
+from duqling.dimension import Dimension
 
 
 def test_equality():

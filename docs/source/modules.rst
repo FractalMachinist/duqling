@@ -1,7 +1,7 @@
-duq
-===
+duqling
+=======
 
 .. toctree::
    :maxdepth: 4
 
-   duq
+   duqling
